@@ -34,16 +34,30 @@
 
 ---
 
-## 🏆 Achievements & Awards  
 
-![Awards](https://github-profile-trophy.vercel.app/?username=Amarjeet2623&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)  
+
+## 🌐 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarjeet-kumar-79b54a256) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amarjeet2623) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Amarjeet_133/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amarjeetkumaramar133@iiitmanipur.ac.in)  
 
 ---
+
+
 
 ## 📊 GitHub Stats  
 
 | ![Amarjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amarjeet2623&show_icons=true&theme=tokyonight&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amarjeet2623&layout=compact&theme=tokyonight&hide_border=true) |
 | --- | --- |
+
+---
+
+
+## 🏆 Achievements & Awards  
+
+![Awards](https://github-profile-trophy.vercel.app/?username=Amarjeet2623&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)  
 
 ---
 
@@ -62,13 +76,5 @@
 
 ---
 
-## 🌐 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarjeet-kumar-79b54a256) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amarjeet2623) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Amarjeet_133/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amarjeetkumaramar133@iiitmanipur.ac.in)  
-
----
 
 ⭐ **"Code. Create. Conquer."**
