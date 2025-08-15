@@ -1,71 +1,78 @@
-# Hi there, I'm Amarjeet Kumar 👋
+# 👋 Hi, I'm Amarjeet Kumar  
 
-🎓 **B.Tech (CSE) @ IIIT Manipur** | 💻 **Full-Stack Developer** | ⚡ **Competitive Programmer**
-
----
-
-## 🚀 About Me
-I'm a passionate **Computer Science student (2022–2026)** with a strong foundation in **Data Structures & Algorithms, Web Development, and Problem-Solving**.  
-I enjoy building dynamic, user-friendly applications and participating in competitive programming challenges.
+🎓 **B.Tech (CSE) @ IIIT Manipur (2022–2026)**  
+💻 **Full-Stack Developer | Competitive Programmer | Problem Solver**  
+🚀 Passionate about building scalable web apps & solving complex problems.  
 
 ---
 
-## 🛠️ Skills
-
-**Languages:**  
-`C` | `C++` | `JavaScript` | `Python` | `PHP`
-
-**Development:**  
-`React.js` | `Node.js` | `Express.js` | `jQuery` | `HTML` | `CSS`
-
-**Tools & Databases:**  
-`GitHub` | `Postman` | `MongoDB` | `MySQL`
-
-**Fundamentals:**  
-`DSA` | `Operating Systems` | `Computer Networks` | `OOP` | `DBMS` | `Linux`
+## 🚀 About Me  
+- 🔭 Currently working on **MERN stack projects** and **competitive programming**.  
+- 🌱 Exploring **Cloud, DevOps, and System Design** concepts.  
+- 🎯 Goal: Contribute to **open-source projects** & land a **SDE role**.  
+- ⚡ Fun fact: I can debug faster with a cup of coffee ☕.  
 
 ---
 
-## 💼 Experience
+## 🛠️ Tech Stack  
 
-**Front-End Development Intern @ ApexPlanet** *(Apr–May 2025)*  
-- Built responsive and interactive web interfaces using HTML, CSS, and JavaScript.  
-- Improved UI/UX for client-facing applications.  
-- Ensured cross-browser compatibility and mobile responsiveness.  
+**Languages & Frameworks**  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-**Web Development Intern @ Brainwave Matrix Solutions** *(Jun–Jul 2025)*  
-- Developed dynamic web applications using HTML, CSS, and JavaScript.  
-- Contributed to real-world projects like **Smart Day Planner** and **Blogging Platform**.  
-- Enhanced UI performance and implemented interactive features.  
-
----
-
-## 📂 Projects
-
-### [📚 Library Management System](https://github.com/Amarjeet2623/Library-Management-System)  
-*C, CSV File Handling*  
-- Console-based app to manage hospital operations: patient records, appointments, billing, and nurse assignments.  
-- Utilized CSV files for structured data storage.
-
-### [🛒 Online Shopping Website](https://github.com/Amarjeet2623/Shopping_Website)  
-*MERN Stack*  
-- Full-stack shopping platform with login/signup, menu browsing, and order placement.  
-- Integrated Cash on Delivery (COD) payments.  
-- Admin dashboard for product & order management.  
+**Tools & Platforms**  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
 ---
 
-## 🏆 Achievements
-- 🥇 **Rank 4** in **AlgoQuiz 2024** (National-level coding competition by AlgoUniversity).  
-- 🌟 Solved **17 advanced graph theory problems** in Graph Camp 2025 (DFS, BFS, Dijkstra, Union-Find).  
+## 📊 GitHub Stats & Activity  
+
+![Amarjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amarjeet2623&show_icons=true&theme=tokyonight&hide_border=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amarjeet2623&layout=compact&theme=tokyonight&hide_border=true)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Amarjeet2623&theme=tokyonight&hide_border=true)  
 
 ---
 
-## 🌐 Connect With Me
-- 📧 Email: [amarjeetkumaramar133@iiitmanipur.ac.in](mailto:amarjeetkumaramar133@iiitmanipur.ac.in)  
-- 🔗 LinkedIn: [linkedin.com/in/amarjeet-kumar-79b54a256](https://www.linkedin.com/in/amarjeet-kumar-79b54a256)  
-- 💻 GitHub: [github.com/Amarjeet2623](https://github.com/Amarjeet2623)  
-- 🏆 LeetCode: [leetcode.com/u/Amarjeet_133](https://leetcode.com/u/Amarjeet_133/)  
+## 📈 Contribution & Activity Graph  
+
+![Amarjeet's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amarjeet2623&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true)  
+
+---
+
+## 📂 Featured Projects  
+
+- [📚 Library Management System](https://github.com/Amarjeet2623/Library-Management-System) – Console-based C application using CSV file handling.  
+- [🛒 Online Shopping Website](https://github.com/Amarjeet2623/Shopping_Website) – Full-stack MERN e-commerce platform with admin dashboard & COD payment.  
+
+---
+
+## 🏆 Achievements  
+
+- **Rank 4** – AlgoQuiz 2024 (National Level).  
+- **17 advanced graph problems solved** in Graph Camp 2025 (DFS, BFS, Dijkstra, Union-Find).  
+
+---
+
+## 🌐 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarjeet-kumar-79b54a256)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amarjeet2623)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Amarjeet_133/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amarjeetkumaramar133@iiitmanipur.ac.in)  
 
 ---
 
