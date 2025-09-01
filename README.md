@@ -71,16 +71,21 @@
 
 ## 📂 Featured Projects  
 
-- [📚 Library Management System](https://github.com/Amarjeet2623/Library-Management-System) – Console-based C application to manage library records with CSV file handling for persistent storage.
+- [📚 Library Management System](https://github.com/Amarjeet2623/Library-Management-System)
 
-Provides add, search, update, and delete operations with a menu-driven interface.
+- Console-based C application to manage library records with CSV file handling for persistent storage.
 
-Focuses on file operations, error handling, modular programming, and data management in C.  
-- [🛒 Online Shopping Website](https://github.com/Amarjeet2623/Shopping_Website) –  Full-stack MERN e-commerce platform with user (browse, cart, COD orders) and admin (product & order management) modules.
+- Provides add, search, update, and delete operations with a menu-driven interface.
 
-Includes secure authentication, responsive UI, and a dashboard for efficient interaction.
+- Focuses on file operations, error handling, modular programming, and data management in C.
+   
+- [🛒 Online Shopping Website](https://github.com/Amarjeet2623/Shopping_Website)
+  
+-  Full-stack MERN e-commerce platform with user (browse, cart, COD orders) and admin (product & order management) modules.
 
-Built using MongoDB, Express.js, React, Node.js, implementing RESTful APIs, database integration, and scalable design. 
+- Includes secure authentication, responsive UI, and a dashboard for efficient interaction.
+
+- Built using MongoDB, Express.js, React, Node.js, implementing RESTful APIs, database integration, and scalable design. 
 
 ---
 
