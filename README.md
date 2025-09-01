@@ -65,14 +65,22 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Amarjeet2623&theme=tokyonight&hide_border=true)  
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amarjeet2623&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true)  
+
 
 ---
 
 ## 📂 Featured Projects  
 
-- [📚 Library Management System](https://github.com/Amarjeet2623/Library-Management-System) – Console-based C application using CSV file handling.  
-- [🛒 Online Shopping Website](https://github.com/Amarjeet2623/Shopping_Website) – Full-stack MERN e-commerce platform with admin dashboard & COD payment.  
+- [📚 Library Management System](https://github.com/Amarjeet2623/Library-Management-System) – Console-based C application to manage library records with CSV file handling for persistent storage.
+
+Provides add, search, update, and delete operations with a menu-driven interface.
+
+Focuses on file operations, error handling, modular programming, and data management in C.  
+- [🛒 Online Shopping Website](https://github.com/Amarjeet2623/Shopping_Website) –  Full-stack MERN e-commerce platform with user (browse, cart, COD orders) and admin (product & order management) modules.
+
+Includes secure authentication, responsive UI, and a dashboard for efficient interaction.
+
+Built using MongoDB, Express.js, React, Node.js, implementing RESTful APIs, database integration, and scalable design. 
 
 ---
 
